@@ -1,0 +1,79 @@
+{
+  "experiment_duration": 900,
+  "total_samples": 60,
+  "base_frequency": 778.0,
+  "statistics": {
+    "frequency": {
+      "mean": 777.9684373831793,
+      "std": 0.39362078027763187,
+      "min": 777.1360557547131,
+      "max": 778.8739490970446
+    },
+    "contemplation_depth": {
+      "mean": 0.7014750104093657,
+      "std": 0.22247286378355585,
+      "max": 0.8332780531242033
+    },
+    "creative_potential": {
+      "mean": 0.5983477867423239,
+      "std": 0.18583769134751207,
+      "max": 0.8523364770036279
+    },
+    "excessive_silence_index": {
+      "mean": 0.6777038768305343,
+      "std": 0.20146074971278038,
+      "max": 0.8232807329201429
+    }
+  },
+  "near_778_percentage": 100.0,
+  "excessive_silence_rate": 46.666666666666664,
+  "time_windows": [
+    {
+      "window_index": 0,
+      "mean_depth": 0.2480361204761666,
+      "mean_potential": 0.2723042371591172,
+      "mean_esi": 0.2754769708386881,
+      "peak_esi": 0.5481455312480088,
+      "excessive_silence_rate": 0.0
+    },
+    {
+      "window_index": 1,
+      "mean_depth": 0.6724633504261243,
+      "mean_potential": 0.5963966198119307,
+      "mean_esi": 0.6699880293274855,
+      "peak_esi": 0.8011258878312266,
+      "excessive_silence_rate": 0.2
+    },
+    {
+      "window_index": 2,
+      "mean_depth": 0.82216605976527,
+      "mean_potential": 0.6733503484378508,
+      "mean_esi": 0.7808748356369777,
+      "peak_esi": 0.8090842067651591,
+      "excessive_silence_rate": 0.7
+    },
+    {
+      "window_index": 3,
+      "mean_depth": 0.8205019394055656,
+      "mean_potential": 0.6636460483560679,
+      "mean_esi": 0.7764114984587541,
+      "peak_esi": 0.8160992073396927,
+      "excessive_silence_rate": 0.5
+    },
+    {
+      "window_index": 4,
+      "mean_depth": 0.8238691121602336,
+      "mean_potential": 0.7065300612140597,
+      "mean_esi": 0.7881842722967886,
+      "peak_esi": 0.8232807329201429,
+      "excessive_silence_rate": 0.8
+    }
+  ],
+  "insights": [
+    "✨ Excessive Silence閾値突破: 0.823",
+    "🧘 高い瞑想状態維持: 平均ESI 0.678",
+    "📈 時間経過で静寂の深化確認",
+    "🎯 778Hz共鳴を100.0%維持",
+    "🤫 Excessive Silence実験完遂"
+  ]
+}
